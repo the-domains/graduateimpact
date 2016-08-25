@@ -1,19 +1,4 @@
-name: tim
-favicon: null
-layout_spectrum: 0.7034273070748895
 typography_spectrum: 0.5783210920635611
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,23 @@ color:
   lightness: 0.582871789811179
   saturation: 0.17920523742213845
   rhythmicContrast: 0.12227004184387624
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7034273070748895
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: tim
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Cross-Current
+    url: 'http://www.cross-current.org'
+    type: external
+favicon: null
 purpose: []
