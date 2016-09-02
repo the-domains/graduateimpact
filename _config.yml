@@ -28,6 +28,9 @@ navigation:
   - name: Bible&Culture
     id: c2c0ce79-8b89-4e2b-869e-086acfb3237a
     type: content
+  - name: Cross-Current
+    id: 170a358f-a99d-4bcc-aeb5-580b553ca890
+    type: content
 favicon: null
 title: GRADUATEiMPACT
 purpose: []
