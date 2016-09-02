@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-30T19:53:21.419Z'
-sourcePath: _posts/2016-08-25-ifes-graduateimpact.md
-inFeed: true
+datePublished: '2016-08-30T20:22:58.289Z'
 author: []
 via: {}
-dateModified: '2016-08-30T19:53:20.753Z'
+dateModified: '2016-08-30T20:22:57.671Z'
 title: IFES GRADUATEiMPACT
 id: 1ba63655-c320-4a67-9b07-9f1001e554b6
 publisher: {}
@@ -14,7 +12,11 @@ description: >-
   presenting the good news of Jesus Christ in students in every campus around
   the world. We operate in the IFES regions of Eurasia and Europe.
 starred: true
-_type: Blurb
+sourcePath: _posts/2016-08-25-ifes-graduateimpact.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ## **IFES GRADUATEiMPACT**
