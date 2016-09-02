@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-30T18:15:48.352Z'
-inFeed: true
+datePublished: '2016-08-30T19:07:15.111Z'
+sourcePath: _posts/2016-08-30-cross-current.md
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T18:15:47.711Z'
+dateModified: '2016-08-30T19:07:14.327Z'
 title: Cross-Current
 publisher: {}
 description: >-
@@ -12,10 +13,9 @@ description: >-
   field. So far we have run groups in the following areas: politics, economics,
   business, law and education. We plan in the near future to run new groups in
   Business, Science, Law, Medicine, Media, Sociology and Psychology.
-sourcePath: _posts/2016-08-30-cross-current.md
 starred: false
 url: cross-current/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6becdcad-4159-4e71-afa2-df3cda513125.jpg)
