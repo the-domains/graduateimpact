@@ -31,6 +31,9 @@ navigation:
   - name: Cross-Current
     id: 170a358f-a99d-4bcc-aeb5-580b553ca890
     type: content
+  - name: BiBLENOMICS
+    id: f50edf61-b169-4f3a-bd93-f744ceffb7a0
+    type: content
 favicon: null
 title: GRADUATEiMPACT
 purpose: []
