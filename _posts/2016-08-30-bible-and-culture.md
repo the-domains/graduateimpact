@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-30T16:36:15.330Z'
+datePublished: '2016-08-30T16:38:18.079Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T16:35:54.963Z'
+dateModified: '2016-08-30T16:38:17.400Z'
 title: Bible and Culture
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-30-bible-and-culture.md
-_type: Blurb
+hasPage: true
+starred: false
+url: bible-and-culture/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8422a64-77f0-4f2d-ac4d-517a062204b3.jpg)
