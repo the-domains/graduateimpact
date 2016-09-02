@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Cross-Current
-    url: 'http://www.cross-current.org'
-    type: external
   - name: Bible&Culture
     id: c2c0ce79-8b89-4e2b-869e-086acfb3237a
     type: content
