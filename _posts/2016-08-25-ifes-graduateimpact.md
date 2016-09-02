@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-30T19:26:18.755Z'
+datePublished: '2016-08-30T19:35:45.950Z'
+sourcePath: _posts/2016-08-25-ifes-graduateimpact.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T19:26:18.141Z'
-title: IFES GRADUATEIMPACT
+dateModified: '2016-08-30T19:35:45.219Z'
+title: IFES GRADUATEiMPACT
 id: 1ba63655-c320-4a67-9b07-9f1001e554b6
 publisher: {}
 description: >-
@@ -12,16 +14,11 @@ description: >-
   presenting the good news of Jesus Christ in students in every campus around
   the world. We operate in the IFES regions of Eurasia and Europe.
 starred: false
-sourcePath: _posts/2016-08-25-ifes-graduateimpact.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
+## **IFES GRADUATEiMPACT**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc45e126-9463-458a-b0dd-d2a99fb04ca7.jpg)
-
-## **IFES GRADUATEIMPACT**
 
 GraduateImpact is a project of the International Fellowship of Evangelical Students (IFES), a global network of Christian ministries focussed on presenting the good news of Jesus Christ in students in every campus around the world. We operate in the IFES regions of Eurasia and Europe.
 
