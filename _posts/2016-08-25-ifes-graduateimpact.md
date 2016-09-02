@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T19:35:45.950Z'
+datePublished: '2016-08-30T19:53:21.419Z'
 sourcePath: _posts/2016-08-25-ifes-graduateimpact.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T19:35:45.219Z'
+dateModified: '2016-08-30T19:53:20.753Z'
 title: IFES GRADUATEiMPACT
 id: 1ba63655-c320-4a67-9b07-9f1001e554b6
 publisher: {}
@@ -13,7 +13,7 @@ description: >-
   Students (IFES), a global network of Christian ministries focussed on
   presenting the good news of Jesus Christ in students in every campus around
   the world. We operate in the IFES regions of Eurasia and Europe.
-starred: false
+starred: true
 _type: Blurb
 
 ---
