@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-30T18:08:08.669Z'
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-30T18:07:43.453Z'
+id: f50edf61-b169-4f3a-bd93-f744ceffb7a0
+dateModified: '2016-08-30T19:37:29.038Z'
 title: ''
-publisher: {}
+datePublished: '2016-08-30T19:37:29.951Z'
+author: []
+hasPage: true
 description: Biblenomics
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-08-30-21st-23rd-october-2016-woltersdorf-berlin.md
 url: 21st-23rd-october-2016-woltersdorf-berlin/index.html
